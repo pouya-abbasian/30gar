@@ -3,9 +3,14 @@
 روش استفاده در سیستم‌عامل های شبه‌یونیکس:
 ```bash
 git clone https://github.com/pouya-abbasian/30gar.git ; cd 30gar ; chmod +x 30gar.py
+./30gar.py
 ```
 اگر نیاز دارید به لیست دستورات شما اضافه شود :
 ```bash
 sudo cp 30gar.py /bin/30gar
 sudo chmod +x /bin/30gar
+30gar
 ```
+### پروژه نیاز به کمک شما دارد ;)
+
+موفق باشید
